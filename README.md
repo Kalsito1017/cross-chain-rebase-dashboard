@@ -53,3 +53,8 @@ Here is an example Power BI visual showing the sum of total deposits and count o
 ![Sum of TotalDeposited and Count of UserID by WalletAddress](https://github.com/user-attachments/assets/8ef4dbac-ac68-4d4c-8a64-a28c84e53a73)
 
 
+Sum of TotalTokens by FromChain and ToChain: 
+<img width="746" height="546" alt="image" src="https://github.com/user-attachments/assets/134542b5-6711-48dd-a5ed-ad0539ab25dd" />
+
+
+
